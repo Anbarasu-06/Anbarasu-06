@@ -10,9 +10,9 @@
 
 <div align="center">
  
- 🎓 I’m a second-year student of Information Technology
+ 🎓 I’m a Pre-Final year student of Information Technology
 
-💻 I’m currently learning React , Servlet and Firebase
+💻 I’m currently learning React , Servlet and Springboot
 
 🚀 I’m passionate about software development 
 
